@@ -1,15 +1,15 @@
 # SAML2-js
 
-[![CircleCI](https://circleci.com/gh/Clever/saml2/tree/master.svg?style=svg)](https://circleci.com/gh/Clever/saml2/tree/master)
+## THIS IS A FORK OF https://github.com/Clever/saml2
 
-`saml2-js` is a node module that abstracts away the complexities of the SAML protocol behind an easy to use interface.
+`@shoaltogether/saml2-js` is a node module that abstracts away the complexities of the SAML protocol behind an easy to use interface.
 
 ## Usage
 
 Install with [npm](https://www.npmjs.com/).
 
 ```bash
-  npm install saml2-js --save
+  npm install @shoaltogether/saml2-js --save
 ```
 
 Include the SAML library.
