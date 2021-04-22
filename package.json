@@ -1,12 +1,12 @@
 {
-  "name": "saml2-js",
+  "name": "@shoaltogether/saml2-js",
   "version": "3.0.1",
   "description": "SAML 2.0 node helpers",
   "author": "Clever",
   "license": "Apache-2.0",
   "main": "index.js",
   "engines": {
-    "node": ">=10.x"
+    "node": ">=14.x"
   },
   "scripts": {
     "build": "coffee --bare -c -o lib-js lib",
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Clever/saml2.git"
+    "url": "git://github.com/desanaio/saml2.git"
   },
   "keywords": [
     "saml",
     "node"
   ],
   "bugs": {
-    "url": "https://github.com/Clever/saml2/issues"
+    "url": "https://github.com/desanaio/saml2/issues"
   },
   "devDependencies": {
     "coffee-script": "^1.12.0",
