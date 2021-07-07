@@ -5,7 +5,7 @@
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 2.3
 
-declare module '@shoaltogether/saml2-js' {
+declare module '@desanaio/saml2-js' {
   /** Represents an online service that authenticates users in the SAML flow. */
   export class IdentityProvider {
       constructor(options: IdentityProviderOptions);

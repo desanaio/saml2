@@ -2,14 +2,14 @@
 
 ## THIS IS A FORK OF https://github.com/Clever/saml2
 
-`@shoaltogether/saml2-js` is a node module that abstracts away the complexities of the SAML protocol behind an easy to use interface.
+`@desanaio/saml2-js` is a node module that abstracts away the complexities of the SAML protocol behind an easy to use interface.
 
 ## Usage
 
 Install with [npm](https://www.npmjs.com/).
 
 ```bash
-  npm install @shoaltogether/saml2-js --save
+  npm install @desanaio/saml2-js --save
 ```
 
 Include the SAML library.
