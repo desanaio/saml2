@@ -1,5 +1,5 @@
 {
-  "name": "@shoaltogether/saml2-js",
+  "name": "@desanaio/saml2-js",
   "version": "3.0.6",
   "description": "SAML 2.0 node helpers",
   "author": "Clever",
