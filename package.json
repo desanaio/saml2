@@ -26,9 +26,9 @@
     "url": "https://github.com/desanaio/saml2/issues"
   },
   "devDependencies": {
-    "coffee-script": "^1.12.0",
-    "mocha": "^8.2.0",
-    "nyc": "^15.0.0"
+    "coffee-script": "^1.12.7",
+    "mocha": "^9.2.1",
+    "nyc": "^15.1.0"
   },
   "dependencies": {
     "@xmldom/xmldom": "^0.8.1",
